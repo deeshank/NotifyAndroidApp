@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "236137470674",
+    "project_id": "notify-65186"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236137470674:android:d1e97b3ba32e9b99",
+        "android_client_info": {
+          "package_name": "com.deeshank.notify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0TXfIEoCu7voBaF9ZPRL8r9sc9xHHN1Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
